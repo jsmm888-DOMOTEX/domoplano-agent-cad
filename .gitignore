@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.dwfx
+*.dwf
+*.pdf
+.DS_Store
+.venv/
